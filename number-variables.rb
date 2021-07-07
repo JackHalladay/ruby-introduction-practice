@@ -9,4 +9,4 @@ eight = 8
 nine = 9
 ten = 10
 
-puts four * five
+twenty = four * five
